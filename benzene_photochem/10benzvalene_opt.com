@@ -1,4 +1,4 @@
-***, subtracted imaginary freq/10 to transition state i tried to add freq/100 before but it failed
+***, subtracted imaginary freq/10 to transition state i tried to add freq/100 before but it went to benzene
 file,2,10benzvale.wfu  ! copy the 7benz_opt.wfu to 10benzvale.wfu
 symmetry,nosym
 memory,400,m
